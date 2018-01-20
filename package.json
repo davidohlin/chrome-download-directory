@@ -1,0 +1,9 @@
+{
+  "name": "chrome-download-directory",
+  "version": "1.0.0",
+  "description": "Adds a button to download a subdirectory from a Github repository",
+  "main": "index.js",
+  "repository": "https://github.com/davidohlin/chrome-download-directory",
+  "author": "David Öhlin",
+  "license": "MIT"
+}
