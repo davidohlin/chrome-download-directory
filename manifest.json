@@ -8,8 +8,7 @@
      "tabs",
      "activeTab",
      "webNavigation",
-     "http://*/*",
-     "https://*/*"
+     "https://github.com/*"
   ],
   "content_scripts": [{
   	"matches": ["<all_urls>"],
