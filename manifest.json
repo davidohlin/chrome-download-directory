@@ -17,5 +17,8 @@
   "background": {
     "persistent": false,
     "scripts": ["js/background.js"]
+  },
+  "icons": {
+  	"128": "icon128.png"
   }
 }
