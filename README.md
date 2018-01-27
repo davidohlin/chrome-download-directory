@@ -6,6 +6,9 @@ Uses [download-directory](https://github.com/download-directory/download-directo
 
 ![Screenshot](images/demo.png)
 
+## Install
+[Chrome Web Store](https://chrome.google.com/webstore/detail/github-download-directory/ainhcbodabdlbggjhcbjhghmpjapgmmn)
+
 ## License
 
 MIT © [David Öhlin](http://github.com/davidohlin)
